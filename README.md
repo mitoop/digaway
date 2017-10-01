@@ -39,5 +39,10 @@
 - [Meet PhpStorm](https://www.jetbrains.com/help/phpstorm)
   > 工欲善其事必先利其器
 
+
+# Encryption 加密
+
+- [Codeigniter : Encryption Library](https://codeigniter.com/user_guide/libraries/encryption.html)
+- [CodeIgniter : Encryption Library(中文)](http://codeigniter.org.cn/user_guide/libraries/encryption.html)
  
   
