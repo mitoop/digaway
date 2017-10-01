@@ -1,3 +1,13 @@
+
+<p align="center"><img height="60px" width="60px" src="https://raw.githubusercontent.com/mitoop/digaway/master/pin.png" alt="pin"></p>
+
+```
+
+ * * * * * learning:run >> /dev/null 2>&1
+
+```
+
+  
 #  SSH
 - [SSH](https://wiki.archlinux.org/index.php/Secure_Shell_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 - [SSH keys](https://wiki.archlinux.org/index.php/SSH_keys_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
@@ -13,9 +23,9 @@
 - [Ruby信条 The Rails Doctrine](http://rubyonrails.org/doctrine/zh_cn)
 - [Python之禅 The Zen of Python](https://jimolonely.gitbooks.io/pythonwell/content/python%E4%B9%8B%E7%A6%85.html)
 
-# git
+# Git
 
-- [git秘诀](https://github.com/geeeeeeeeek/git-recipes)
+- [Git秘诀](https://github.com/geeeeeeeeek/git-recipes)
 
 # Onion 洋葱模型
 
