@@ -12,3 +12,14 @@
 
 - [Ruby信条 The Rails Doctrine](http://rubyonrails.org/doctrine/zh_cn)
 - [Python之禅 The Zen of Python](https://jimolonely.gitbooks.io/pythonwell/content/python%E4%B9%8B%E7%A6%85.html)
+
+# git
+
+- [git秘诀](https://github.com/geeeeeeeeek/git-recipes)
+
+# Onion 洋葱模型
+
+- [中间件洋葱模型](https://eggjs.org/zh-cn/intro/egg-and-koa.html#koa)
+  > Laravel与Koa相同, Laravel是双层Onion
+ 
+  
