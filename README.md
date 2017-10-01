@@ -1,11 +1,5 @@
 
-<p align="center"><img height="60px" width="60px" src="https://raw.githubusercontent.com/mitoop/digaway/master/pin.png" alt="pin"></p>
-
-```
-
- * * * * * learning:run >> /dev/null 2>&1
-
-```
+<p align="center"><img src="https://raw.githubusercontent.com/mitoop/digaway/master/cron.png"></p>
 
   
 #  SSH
@@ -36,6 +30,14 @@
 # 团队发展
 
 - [LeanCloud 开放资源](https://open.leancloud.cn/)
+
+
+# PHPStorm
+
+- [Laracast : Be Awesome in PHPStorm](https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
+- [PHPStorm Tutorials](https://confluence.jetbrains.com/display/PhpStorm/Tutorials)
+- [Meet PhpStorm](https://www.jetbrains.com/help/phpstorm)
+  > 工欲善其事必先利其器
 
  
   
