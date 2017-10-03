@@ -30,6 +30,7 @@
 # 团队发展
 
 - [LeanCloud 开放资源](https://open.leancloud.cn/)
+- [创业维艰 The Hard Thing About Hard Things](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B00SMB8ZVU/ref=sr_1_1?ie=UTF8&qid=1506999130&sr=8-1&keywords=%E5%88%9B%E4%B8%9A%E7%BB%B4%E8%89%B0)
 
 
 # PHPStorm
